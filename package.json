@@ -1,0 +1,27 @@
+{
+  "name": "bitmap-transforms",
+  "version": "1.0.0",
+  "description": "Takes a bitmap and performs a transform on it",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desdemonhu/bitmap-transforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desdemonhu/bitmap-transforms/issues"
+  },
+  "homepage": "https://github.com/desdemonhu/bitmap-transforms#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "mocha": "^4.0.1"
+  }
+}
