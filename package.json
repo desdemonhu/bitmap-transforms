@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/desdemonhu/bitmap-transforms#readme",
   "devDependencies": {
+    "expect": "^21.2.1",
     "express": "^4.16.2",
     "mocha": "^4.0.1"
   }
